@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.a7fc1445.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"hyy/5.\u5C01\u88C5\u54CD\u5E94\u7C7B.md"}'),l={name:"hyy/5.\u5C01\u88C5\u54CD\u5E94\u7C7B.md"},o=p("",2),e=[o];function r(c,t,D,F,y,C){return a(),n("div",null,e)}const u=s(l,[["render",r]]);export{i as __pageData,u as default};

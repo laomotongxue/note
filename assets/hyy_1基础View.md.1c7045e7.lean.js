@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.a7fc1445.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"hyy/1\u57FA\u7840View.md"}'),l={name:"hyy/1\u57FA\u7840View.md"},o=p("",4),e=[o];function r(c,t,D,F,y,A){return a(),n("div",null,e)}const b=s(l,[["render",r]]);export{C as __pageData,b as default};

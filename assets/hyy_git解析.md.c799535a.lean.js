@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as i,a as n}from"./app.a7fc1445.js";const b=JSON.parse('{"title":"git\u89E3\u6790","description":"","frontmatter":{},"headers":[],"relativePath":"hyy/git\u89E3\u6790.md"}'),r={name:"hyy/git\u89E3\u6790.md"},t=n("",32),s=[t];function h(d,c,p,l,o,g){return i(),e("div",null,s)}const _=a(r,[["render",h]]);export{b as __pageData,_ as default};

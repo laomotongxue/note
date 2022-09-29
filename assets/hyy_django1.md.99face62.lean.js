@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.a7fc1445.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"hyy/django1.md"}'),l={name:"hyy/django1.md"},p=e("",21),r=[p];function c(i,o,t,d,h,b){return n(),a("div",null,r)}const g=s(l,[["render",c]]);export{m as __pageData,g as default};
